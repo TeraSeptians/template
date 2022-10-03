@@ -1,3 +1,4 @@
 # 2021105851
-Latihan Templating
+Latihan Templating<br>
+Praktikum Templating<br>
 XII RPL 2
